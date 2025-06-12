@@ -35,8 +35,7 @@ def salvar_estoque_json(estoque):
                 engradado_dict = {
                     'produto': engradado.produto.to_dict(),
                     'quantidade': engradado.quantidade,
-                    'capacidade_max': engradado.capacidade_max,
-                    'peso_kg': getattr(engradado, 'peso_kg', 0.0)
+                    'capacidade_max': engradado.capacidade_max
                 }
                 pilha_serializada.append(engradado_dict)
             linha_serializada.append(pilha_serializada)
@@ -60,7 +59,7 @@ def carregar_estoque_json():
                 pilha = estoque.matriz[i][j]
                 for engradado_dict in pilha_serializada:
                     produto = Produto.from_dict(engradado_dict['produto'])
-                    engradado = Engradado(produto, engradado_dict['quantidade'], engradado_dict['capacidade_max'], engradado_dict.get('peso_kg', 0.0))
+                    engradado = Engradado(produto, engradado_dict['quantidade'], engradado_dict['capacidade_max'])
                     pilha.empilhar(engradado)
         return estoque
     except FileNotFoundError:
@@ -112,10 +111,10 @@ def main():
                 print('Nenhum produto cadastrado.')
             else:
                 print('\nLista de Produtos:')
-                print('-'*60)
+                print('-'*100)
                 for p in produtos:
-                    print(f'Código: {p.codigo} | Nome: {p.nome} | Lote: {p.lote} | Validade: {p.validade}')
-                print('-'*60)
+                    print(f"Código: {p.codigo} | Lote: {p.lote} | Nome: {p.nome} | Peso: {p.peso}g | Validade: {p.validade} | Fabricação: {p.fabricacao} | Preço Compra: R${p.preco_compra:.2f} | Preço Venda: R${p.preco_venda:.2f} | Fornecedor: {p.fornecedor} | Fabricante: {p.fabricante} | Categoria: {p.categoria}")
+                print('-'*100)
         # Adição de engradado ao estoque
         elif opcao == '3':
             produtos = carregar_produtos_json()
@@ -134,11 +133,10 @@ def main():
             produto = produtos[idx_prod]
             capacidade_max = int(input('Capacidade máxima do engradado: '))
             quantidade = int(input('Quantidade de itens neste engradado: '))
-            peso_engradado = float(input('Peso do engradado (em kg): '))
             if quantidade > capacidade_max:
                 print('Quantidade não pode exceder a capacidade máxima!')
                 continue
-            engradado = Engradado(produto, quantidade, capacidade_max, peso_engradado)
+            engradado = Engradado(produto, quantidade, capacidade_max)
             estoque = carregar_estoque_json()
             inserido = False
             # Procura uma pilha vazia ou pilha do mesmo produto não cheia para empilhar
@@ -231,11 +229,17 @@ def main():
                         pilha = estoque.matriz[i][j]
                         while (not pilha.esta_vazia() and pilha.topo().produto.codigo == codigo_produto and total_removido < quantidade_necessaria):
                             engradado = pilha.topo()
-                            if total_removido + engradado.quantidade <= quantidade_necessaria:
+                            if engradado.quantidade + total_removido <= quantidade_necessaria:
                                 pilha.desempilhar()
                                 engradados_removidos.append({'linha': i, 'coluna': j, 'quantidade': engradado.quantidade})
                                 total_removido += engradado.quantidade
                             else:
+                                # Retira apenas o necessário deste engradado
+                                retirar = quantidade_necessaria - total_removido
+                                engradado.quantidade -= retirar
+                                engradados_removidos.append({'linha': i, 'coluna': j, 'quantidade': retirar})
+                                total_removido += retirar
+                            if total_removido >= quantidade_necessaria:
                                 break
                         if total_removido >= quantidade_necessaria:
                             break

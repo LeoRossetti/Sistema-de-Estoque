@@ -3,533 +3,351 @@
     [
       {
         "produto": {
-          "codigo": "123",
-          "lote": "1",
-          "nome": "macaco",
-          "peso": 200.0,
-          "validade": "09/08/2026",
-          "fabricacao": "09/09/2010",
-          "preco_compra": 100.0,
-          "preco_venda": 200.0,
-          "fornecedor": "ParmesaInc",
-          "fabricante": "Losa",
-          "categoria": "animal"
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
         },
         "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
+        "capacidade_max": 10
       },
       {
         "produto": {
-          "codigo": "123",
-          "lote": "1",
-          "nome": "macaco",
-          "peso": 200.0,
-          "validade": "09/08/2026",
-          "fabricacao": "09/09/2010",
-          "preco_compra": 100.0,
-          "preco_venda": 200.0,
-          "fornecedor": "ParmesaInc",
-          "fabricante": "Losa",
-          "categoria": "animal"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
-      {
-        "produto": {
-          "codigo": "P001",
-          "lote": "L001",
-          "nome": "Refrigerante",
-          "peso": 2000,
-          "validade": "11/07/2025",
-          "fabricacao": "11/06/2025",
-          "preco_compra": 3.0,
-          "preco_venda": 5.0,
-          "fornecedor": "Bebidas S.A.",
-          "fabricante": "Bebidas S.A.",
-          "categoria": "Bebida"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
-      {
-        "produto": {
-          "codigo": "P002",
-          "lote": "L002",
-          "nome": "Água",
-          "peso": 1500,
-          "validade": "20/07/2025",
-          "fabricacao": "10/06/2025",
-          "preco_compra": 1.0,
-          "preco_venda": 2.0,
-          "fornecedor": "Águas Ltda.",
-          "fabricante": "Águas Ltda.",
-          "categoria": "Bebida"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
-      {
-        "produto": {
-          "codigo": "P003",
-          "lote": "L003",
-          "nome": "Suco",
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
           "peso": 1000,
-          "validade": "15/08/2025",
-          "fabricacao": "15/06/2025",
-          "preco_compra": 2.5,
-          "preco_venda": 4.0,
-          "fornecedor": "Sucos Brasil",
-          "fabricante": "Sucos Brasil",
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
           "categoria": "Bebida"
         },
         "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
-      {
-        "produto": {
-          "codigo": "P004",
-          "lote": "L004",
-          "nome": "Cerveja",
-          "peso": 350,
-          "validade": "01/09/2025",
-          "fabricacao": "01/06/2025",
-          "preco_compra": 2.0,
-          "preco_venda": 3.5,
-          "fornecedor": "Cervejaria Boa",
-          "fabricante": "Cervejaria Boa",
-          "categoria": "Bebida"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ]
-  ],
-  [
-    [
-      {
-        "produto": {
-          "codigo": "P005",
-          "lote": "L005",
-          "nome": "Biscoito",
-          "peso": 120,
-          "validade": "10/07/2025",
-          "fabricacao": "10/06/2025",
-          "preco_compra": 1.2,
-          "preco_venda": 2.0,
-          "fornecedor": "Alimentos Sabor",
-          "fabricante": "Alimentos Sabor",
-          "categoria": "Alimento"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [],
-    [
-      {
-        "produto": {
-          "codigo": "P007",
-          "lote": "L007",
-          "nome": "Café",
-          "peso": 500,
-          "validade": "30/09/2025",
-          "fabricacao": "01/07/2025",
-          "preco_compra": 8.0,
-          "preco_venda": 12.0,
-          "fornecedor": "Cafés do Sul",
-          "fabricante": "Cafés do Sul",
-          "categoria": "Bebida"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
+        "capacidade_max": 10
       },
       {
         "produto": {
-          "codigo": "P007",
-          "lote": "L007",
-          "nome": "Café",
-          "peso": 500,
-          "validade": "30/09/2025",
-          "fabricacao": "01/07/2025",
-          "preco_compra": 8.0,
-          "preco_venda": 12.0,
-          "fornecedor": "Cafés do Sul",
-          "fabricante": "Cafés do Sul",
-          "categoria": "Bebida"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [],
-    [
-      {
-        "produto": {
-          "codigo": "123",
-          "lote": "1",
-          "nome": "macaco",
-          "peso": 200.0,
-          "validade": "09/08/2026",
-          "fabricacao": "09/09/2010",
-          "preco_compra": 100.0,
-          "preco_venda": 200.0,
-          "fornecedor": "ParmesaInc",
-          "fabricante": "Losa",
-          "categoria": "animal"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ]
-  ],
-  [
-    [
-      {
-        "produto": {
-          "codigo": "P001",
-          "lote": "L001",
-          "nome": "Refrigerante",
-          "peso": 2000,
-          "validade": "11/07/2025",
-          "fabricacao": "11/06/2025",
-          "preco_compra": 3.0,
-          "preco_venda": 5.0,
-          "fornecedor": "Bebidas S.A.",
-          "fabricante": "Bebidas S.A.",
-          "categoria": "Bebida"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
-      {
-        "produto": {
-          "codigo": "P002",
-          "lote": "L002",
-          "nome": "Água",
-          "peso": 1500,
-          "validade": "20/07/2025",
-          "fabricacao": "10/06/2025",
-          "preco_compra": 1.0,
-          "preco_venda": 2.0,
-          "fornecedor": "Águas Ltda.",
-          "fabricante": "Águas Ltda.",
-          "categoria": "Bebida"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
-      {
-        "produto": {
-          "codigo": "P003",
-          "lote": "L003",
-          "nome": "Suco",
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
           "peso": 1000,
-          "validade": "15/08/2025",
-          "fabricacao": "15/06/2025",
-          "preco_compra": 2.5,
-          "preco_venda": 4.0,
-          "fornecedor": "Sucos Brasil",
-          "fabricante": "Sucos Brasil",
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
           "categoria": "Bebida"
         },
         "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
+        "capacidade_max": 10
+      },
       {
         "produto": {
-          "codigo": "P004",
-          "lote": "L004",
-          "nome": "Cerveja",
-          "peso": 350,
-          "validade": "01/09/2025",
-          "fabricacao": "01/06/2025",
-          "preco_compra": 2.0,
-          "preco_venda": 3.5,
-          "fornecedor": "Cervejaria Boa",
-          "fabricante": "Cervejaria Boa",
-          "categoria": "Bebida"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
-      {
-        "produto": {
-          "codigo": "P005",
-          "lote": "L005",
-          "nome": "Biscoito",
-          "peso": 120,
-          "validade": "10/07/2025",
-          "fabricacao": "10/06/2025",
-          "preco_compra": 1.2,
-          "preco_venda": 2.0,
-          "fornecedor": "Alimentos Sabor",
-          "fabricante": "Alimentos Sabor",
-          "categoria": "Alimento"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ]
-  ],
-  [
-    [],
-    [
-      {
-        "produto": {
-          "codigo": "P007",
-          "lote": "L007",
-          "nome": "Café",
-          "peso": 500,
-          "validade": "30/09/2025",
-          "fabricacao": "01/07/2025",
-          "preco_compra": 8.0,
-          "preco_venda": 12.0,
-          "fornecedor": "Cafés do Sul",
-          "fabricante": "Cafés do Sul",
-          "categoria": "Bebida"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [],
-    [
-      {
-        "produto": {
-          "codigo": "123",
-          "lote": "1",
-          "nome": "macaco",
-          "peso": 200.0,
-          "validade": "09/08/2026",
-          "fabricacao": "09/09/2010",
-          "preco_compra": 100.0,
-          "preco_venda": 200.0,
-          "fornecedor": "ParmesaInc",
-          "fabricante": "Losa",
-          "categoria": "animal"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
-      {
-        "produto": {
-          "codigo": "P001",
-          "lote": "L001",
-          "nome": "Refrigerante",
-          "peso": 2000,
-          "validade": "11/07/2025",
-          "fabricacao": "11/06/2025",
-          "preco_compra": 3.0,
-          "preco_venda": 5.0,
-          "fornecedor": "Bebidas S.A.",
-          "fabricante": "Bebidas S.A.",
-          "categoria": "Bebida"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ]
-  ],
-  [
-    [
-      {
-        "produto": {
-          "codigo": "P002",
-          "lote": "L002",
-          "nome": "Água",
-          "peso": 1500,
-          "validade": "20/07/2025",
-          "fabricacao": "10/06/2025",
-          "preco_compra": 1.0,
-          "preco_venda": 2.0,
-          "fornecedor": "Águas Ltda.",
-          "fabricante": "Águas Ltda.",
-          "categoria": "Bebida"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
-      {
-        "produto": {
-          "codigo": "P003",
-          "lote": "L003",
-          "nome": "Suco",
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
           "peso": 1000,
-          "validade": "15/08/2025",
-          "fabricacao": "15/06/2025",
-          "preco_compra": 2.5,
-          "preco_venda": 4.0,
-          "fornecedor": "Sucos Brasil",
-          "fabricante": "Sucos Brasil",
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 8,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
           "categoria": "Bebida"
         },
         "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
+        "capacidade_max": 10
+      },
       {
         "produto": {
-          "codigo": "P004",
-          "lote": "L004",
-          "nome": "Cerveja",
-          "peso": 350,
-          "validade": "01/09/2025",
-          "fabricacao": "01/06/2025",
-          "preco_compra": 2.0,
-          "preco_venda": 3.5,
-          "fornecedor": "Cervejaria Boa",
-          "fabricante": "Cervejaria Boa",
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
           "categoria": "Bebida"
         },
         "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
+        "capacidade_max": 10
+      },
       {
         "produto": {
-          "codigo": "P005",
-          "lote": "L005",
-          "nome": "Biscoito",
-          "peso": 120,
-          "validade": "10/07/2025",
-          "fabricacao": "10/06/2025",
-          "preco_compra": 1.2,
-          "preco_venda": 2.0,
-          "fornecedor": "Alimentos Sabor",
-          "fabricante": "Alimentos Sabor",
-          "categoria": "Alimento"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    []
-  ],
-  [
-    [
-      {
-        "produto": {
-          "codigo": "P007",
-          "lote": "L007",
-          "nome": "Café",
-          "peso": 500,
-          "validade": "30/09/2025",
-          "fabricacao": "01/07/2025",
-          "preco_compra": 8.0,
-          "preco_venda": 12.0,
-          "fornecedor": "Cafés do Sul",
-          "fabricante": "Cafés do Sul",
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
           "categoria": "Bebida"
         },
         "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [],
-    [
+        "capacidade_max": 10
+      },
       {
         "produto": {
-          "codigo": "123",
-          "lote": "1",
-          "nome": "macaco",
-          "peso": 200.0,
-          "validade": "09/08/2026",
-          "fabricacao": "09/09/2010",
-          "preco_compra": 100.0,
-          "preco_venda": 200.0,
-          "fornecedor": "ParmesaInc",
-          "fabricante": "Losa",
-          "categoria": "animal"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
-      {
-        "produto": {
-          "codigo": "P001",
-          "lote": "L001",
-          "nome": "Refrigerante",
-          "peso": 2000,
-          "validade": "11/07/2025",
-          "fabricacao": "11/06/2025",
-          "preco_compra": 3.0,
-          "preco_venda": 5.0,
-          "fornecedor": "Bebidas S.A.",
-          "fabricante": "Bebidas S.A.",
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
           "categoria": "Bebida"
         },
         "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 2,
+        "capacidade_max": 10
       }
     ],
     [
       {
         "produto": {
-          "codigo": "P002",
-          "lote": "L002",
-          "nome": "Água",
-          "peso": 1500,
-          "validade": "20/07/2025",
-          "fabricacao": "10/06/2025",
-          "preco_compra": 1.0,
-          "preco_venda": 2.0,
-          "fornecedor": "Águas Ltda.",
-          "fabricante": "Águas Ltda.",
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
           "categoria": "Bebida"
         },
         "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
       }
     ]
   ],
@@ -537,165 +355,3058 @@
     [
       {
         "produto": {
-          "codigo": "P003",
-          "lote": "L003",
-          "nome": "Suco",
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
           "peso": 1000,
-          "validade": "15/08/2025",
-          "fabricacao": "15/06/2025",
-          "preco_compra": 2.5,
-          "preco_venda": 4.0,
-          "fornecedor": "Sucos Brasil",
-          "fabricante": "Sucos Brasil",
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
           "categoria": "Bebida"
         },
         "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
       }
     ],
     [
       {
         "produto": {
-          "codigo": "P004",
-          "lote": "L004",
-          "nome": "Cerveja",
-          "peso": 350,
-          "validade": "01/09/2025",
-          "fabricacao": "01/06/2025",
-          "preco_compra": 2.0,
-          "preco_venda": 3.5,
-          "fornecedor": "Cervejaria Boa",
-          "fabricante": "Cervejaria Boa",
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
           "categoria": "Bebida"
         },
         "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
       }
     ],
     [
       {
         "produto": {
-          "codigo": "P005",
-          "lote": "L005",
-          "nome": "Biscoito",
-          "peso": 120,
-          "validade": "10/07/2025",
-          "fabricacao": "10/06/2025",
-          "preco_compra": 1.2,
-          "preco_venda": 2.0,
-          "fornecedor": "Alimentos Sabor",
-          "fabricante": "Alimentos Sabor",
-          "categoria": "Alimento"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [],
-    [
-      {
-        "produto": {
-          "codigo": "P007",
-          "lote": "L007",
-          "nome": "Café",
-          "peso": 500,
-          "validade": "30/09/2025",
-          "fabricacao": "01/07/2025",
-          "preco_compra": 8.0,
-          "preco_venda": 12.0,
-          "fornecedor": "Cafés do Sul",
-          "fabricante": "Cafés do Sul",
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
           "categoria": "Bebida"
         },
         "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
       }
     ]
   ],
   [
-    [],
     [
       {
         "produto": {
-          "codigo": "123",
-          "lote": "1",
-          "nome": "macaco",
-          "peso": 200.0,
-          "validade": "09/08/2026",
-          "fabricacao": "09/09/2010",
-          "preco_compra": 100.0,
-          "preco_venda": 200.0,
-          "fornecedor": "ParmesaInc",
-          "fabricante": "Losa",
-          "categoria": "animal"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
-      {
-        "produto": {
-          "codigo": "P001",
-          "lote": "L001",
-          "nome": "Refrigerante",
-          "peso": 2000,
-          "validade": "11/07/2025",
-          "fabricacao": "11/06/2025",
-          "preco_compra": 3.0,
-          "preco_venda": 5.0,
-          "fornecedor": "Bebidas S.A.",
-          "fabricante": "Bebidas S.A.",
-          "categoria": "Bebida"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
-      {
-        "produto": {
-          "codigo": "P002",
-          "lote": "L002",
-          "nome": "Água",
-          "peso": 1500,
-          "validade": "20/07/2025",
-          "fabricacao": "10/06/2025",
-          "preco_compra": 1.0,
-          "preco_venda": 2.0,
-          "fornecedor": "Águas Ltda.",
-          "fabricante": "Águas Ltda.",
-          "categoria": "Bebida"
-        },
-        "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
-      }
-    ],
-    [
-      {
-        "produto": {
-          "codigo": "P003",
-          "lote": "L003",
-          "nome": "Suco",
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
           "peso": 1000,
-          "validade": "15/08/2025",
-          "fabricacao": "15/06/2025",
-          "preco_compra": 2.5,
-          "preco_venda": 4.0,
-          "fornecedor": "Sucos Brasil",
-          "fabricante": "Sucos Brasil",
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
           "categoria": "Bebida"
         },
         "quantidade": 10,
-        "capacidade_max": 10,
-        "peso_kg": 10.0
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "001",
+          "lote": "L1",
+          "nome": "Coca-Cola",
+          "peso": 1000,
+          "validade": "06/12/2025",
+          "fabricacao": "06/12/2024",
+          "preco_compra": 5.79,
+          "preco_venda": 6.77,
+          "fornecedor": "Coca-Cola",
+          "fabricante": "Coca-Cola",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "002",
+          "lote": "L2",
+          "nome": "Pepsi",
+          "peso": 1000,
+          "validade": "19/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 4.08,
+          "preco_venda": 8.94,
+          "fornecedor": "Pepsi",
+          "fabricante": "Pepsi",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "003",
+          "lote": "L3",
+          "nome": "Fanta",
+          "peso": 1000,
+          "validade": "09/12/2025",
+          "fabricacao": "14/12/2024",
+          "preco_compra": 5.61,
+          "preco_venda": 7.14,
+          "fornecedor": "Fanta",
+          "fabricante": "Fanta",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "004",
+          "lote": "L4",
+          "nome": "Sprite",
+          "peso": 1000,
+          "validade": "26/12/2025",
+          "fabricacao": "25/12/2024",
+          "preco_compra": 3.41,
+          "preco_venda": 8.54,
+          "fornecedor": "Sprite",
+          "fabricante": "Sprite",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      }
+    ],
+    [
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
+      },
+      {
+        "produto": {
+          "codigo": "005",
+          "lote": "L5",
+          "nome": "Guaraná",
+          "peso": 1000,
+          "validade": "07/12/2025",
+          "fabricacao": "26/12/2024",
+          "preco_compra": 5.68,
+          "preco_venda": 7.14,
+          "fornecedor": "Guaraná",
+          "fabricante": "Guaraná",
+          "categoria": "Bebida"
+        },
+        "quantidade": 10,
+        "capacidade_max": 10
       }
     ]
   ]

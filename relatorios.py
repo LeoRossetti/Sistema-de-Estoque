@@ -28,7 +28,6 @@ def produtos_proximos_vencimento(lista_produtos, dias=30, idx=0, resultado=None)
 
 # Relatório: retorna produtos totalmente esgotados (sem nenhum engradado com quantidade > 0)
 def itens_em_falta(estoque):
-    # Retorna produtos que não possuem nenhum engradado com quantidade > 0
     codigos_produtos = set()
     codigos_com_estoque = set()
     for i in range(len(estoque.matriz)):

@@ -1,19 +1,25 @@
 [
   {
-    "codigo_produto": "P008",
-    "quantidade": 10,
-    "data_solicitacao": "09/10/2025",
-    "nome_solicitante": "parmesa"
+    "codigo_produto": "001",
+    "quantidade": 12,
+    "data_solicitacao": "12/06/2025",
+    "nome_solicitante": "Leo"
   },
   {
-    "codigo_produto": "P008",
-    "quantidade": 10,
-    "data_solicitacao": "09/09/2025",
-    "nome_solicitante": "losa"
+    "codigo_produto": "002",
+    "quantidade": 8,
+    "data_solicitacao": "12/06/2025",
+    "nome_solicitante": "Maria"
   },
   {
-    "codigo_produto": "P006",
-    "quantidade": 40,
+    "codigo_produto": "003",
+    "quantidade": 20,
+    "data_solicitacao": "12/06/2025",
+    "nome_solicitante": "João"
+  },
+  {
+    "codigo_produto": "004",
+    "quantidade": 20,
     "data_solicitacao": "09/09/2025",
     "nome_solicitante": "leo"
   }
