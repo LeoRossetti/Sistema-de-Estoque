@@ -1,0 +1,20 @@
+[
+  {
+    "codigo_produto": "P008",
+    "quantidade": 10,
+    "data_solicitacao": "09/10/2025",
+    "nome_solicitante": "parmesa"
+  },
+  {
+    "codigo_produto": "P008",
+    "quantidade": 10,
+    "data_solicitacao": "09/09/2025",
+    "nome_solicitante": "losa"
+  },
+  {
+    "codigo_produto": "P006",
+    "quantidade": 40,
+    "data_solicitacao": "09/09/2025",
+    "nome_solicitante": "leo"
+  }
+]

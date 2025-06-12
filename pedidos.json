@@ -1,0 +1,14 @@
+[
+  {
+    "codigo_produto": "P008",
+    "quantidade": 30,
+    "data_solicitacao": "09/09/2025",
+    "nome_solicitante": "alishow"
+  },
+  {
+    "codigo_produto": "P008",
+    "quantidade": 20,
+    "data_solicitacao": "09/09/2025",
+    "nome_solicitante": "taibo"
+  }
+]
